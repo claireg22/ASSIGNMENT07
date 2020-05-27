@@ -62,18 +62,18 @@ Two color-contrast checks:
 
 ## Interactive prototype
 Tasks #1 and #2:
-<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/caf758a8-381b-4968-6228-3a4e34c17f16-bcc6/" frameborder="0" allowfullscreen></iframe>
+https://xd.adobe.com/view/caf758a8-381b-4968-6228-3a4e34c17f16-bcc6/
 
 Task #3:
-<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/6699da20-dd69-4436-6d18-15133e8c265e-10a8/" frameborder="0" allowfullscreen></iframe>
+https://xd.adobe.com/view/6699da20-dd69-4436-6d18-15133e8c265e-10a8/
 
 ## Diagrams
 Wireflow:
-![screen designs]()
+![screen designs](wireflows.png)
 
 Prototype:
-![prototype1]()
-![prototype2]()
+![prototype1](proto1.png)
+![prototype2](proto2.png)
 
 
 
