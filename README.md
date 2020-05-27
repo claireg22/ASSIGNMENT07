@@ -47,6 +47,7 @@ Q: What do you think you can do with this web/app?
 Reviewers: "Returning items purchased before and looking at what I had previously ordered"
 
 ### Impression test from extra-credit user test:
+Shortened video from full UT showing only the impression test:
 https://youtu.be/3ImBX4ENuq0
 
 The screens the user saw on the UT impression test:
@@ -74,6 +75,37 @@ Wireflow:
 Prototype:
 ![prototype1](proto1.png)
 ![prototype2](proto2.png)
+
+## Cognitive Walkthrough
+### Cognitive Walkthrough from peer-review:
+Q: Do you think the users can understand what this screen(feedback) is about?
+A: "Yes, it is the front page of the website with menu buttons."
+"There might be too much going on on the top bar - it is a bit cluttered."
+"The buttons are clear and easy to notice because they are orange."
+
+Q:Do you think the users can recognize this (interaction point/ information)?
+A: "On page 2 [returns and refunds page], the boxes are different sizes, which is confusing. I am used to seeing the same size boxes."
+"On page 2, I tried clicking the contact boxes because they look like the clickable category boxes."
+
+Q: Do you think the users can feel that the progress is being made toward what they want to achieve?
+A: "Yes." "If you end up prototyping the return process you should include a progress bar to show the user where they are in the process." 
+
+Q: Do you think the users would know what to do the next step?
+A: "Yep."
+
+Q: Is there anything inconsistent, missing, or confusing?
+A: "No." "Very straight-forward." "There was a lot of great consistency!"
+
+### Findings:
+From the cognitive walkthrough, I found that the flow was easy to use, that the interface was familiar to the user and their interactions with the website were expected. The users particularly liked that the buttons were orange so they knew which UI components were interactive and would lead to another page. I also found in my cognitive walkthrough that I could improve my design consistency, especially when it came to the sizes of boxes, and when showing when different buttons were clickable, or if the rectangle shape was just a border. Some of the reviewers suggested I declutter part of the heading or add a progress bar, however, these icons are part of Amazon's original design that do not play a role in the three tasks/design features I implemented. I kept these features in for the final high-fidelity prototype in order to maintain familiarity and consistency with the original site.
+
+## Reflection:
+
+## Design Improvements after in-person impression tests and cognitive walkthroughs
+
+## Extra Credit UT Videos:
+
+
 
 
 
