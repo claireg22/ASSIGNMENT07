@@ -108,10 +108,18 @@ Reviewers: "No." "Very straight-forward." "There was a lot of great consistency!
 From the cognitive walkthrough, I found that the flow was easy to use, that the interface was familiar to the user and their interactions with the website were expected. The users particularly liked that the buttons were orange so they knew which UI components were interactive and would lead to another page. I also found in my cognitive walkthrough that I could improve my design consistency, especially when it came to the sizes of boxes, and when showing when different buttons were clickable, or if the rectangle shape was just a border. Some of the reviewers suggested I declutter part of the heading or add a progress bar, however, these icons are part of Amazon's original design that do not play a role in the three tasks/design features I implemented. I kept these features in for the final high-fidelity prototype in order to maintain familiarity and consistency with the original site.
 
 ## Reflection:
+For this assignment, I created high-fidelity and interactive prototypes based on my three design features, personas, and hand-drawn low-fidelity prototypes. I then conducted impression test and cognitive walkthrough with my peers and two user test volunteers. From their feedback, I improved my prototypes in order to improve its visual consistency and user flow. I thought this assignment went smoothly. Since I am familiar with using AdobeXD, it was easy to create UI elements. However, since Amazon is such a busy site, I really needed to think about which items were unnecessary and should be removed in my new designs. Furthermore, working with screenshots from Amazon and finding creative ways to remove and add features to the site was interesting but also very tedious and time-consuming. It was also really interesting to see how others navigated through my prototype and identified design elements or issues I did not notice while making my prototype.
+Based on the feedback I got from my peer-reviews and user tests, I probably would not change too much about my design. The three tasks were pretty straight-forward and I spent a lot of time making sure it looked like Amazon, but still had new and imporved design elements. However, one thing I can improve is making shapes and buttons more consistent visually and adding more interesting design elements so my changes on the Amazon site are more noticeable.
 
 ## Design Improvements after in-person impression tests and cognitive walkthroughs
+In order to distinguish between non-clickable boxes and clickable boxes, I added drop-shadows to the boxes that were clickable. This suggested that the boxes were clickable, unlike the borders around the contact information, because adding the drop-shadow made it look like it was press-able.
+
 
 ## Extra Credit UT Videos:
+UT#1 : https://youtu.be/-ixLABqAEtI
+UT#2 : https://youtu.be/F3bf5_iTH-c
+### Feedback:
+The help button is a little too plain in sight. One of the users said that on other websites the help feature is hidden, but on my design it is very clear, which sometimes makes it hard to find. Also, one of the users could not tell if I made significant changes to the design. This shows that I successfully implemented the new design features visually, but it also suggests that I can still make more significant design improvements to Amazon.
 
 
 
