@@ -1,15 +1,15 @@
 # ASSIGNMENT07
 ## Project Description
-### Summary
+### Summary:
 My user research project focuses on creating a quick, less frustrating, and more user-friendly online shopping experience for Amazon. While Amazon is a very well-known and widely-used website, there is large room for improvement for its user experience, especially in terms of accessibility, consistency, and functionality. The community of Amazon users is large, however, to accomodate users with less technological experience, Amazon needs a way to connect with their users quickly and directly. Through my user research and designs, I hope to make Amazon shopping experience faster, but still enjoyable for users, and make help on the website more accessible and personal. For this assignment I have created a high-fidelity prototype of my newly designed Amazon page.
 
-### Purpose
+### Purpose:
 The purpose of a high-fidelity prototype is to make interactive designs and to study the functionality and usability of new design features. The high-fidelity prototype below is based on my low-fidelity prototpes, but now include more visual design information, such as graphic elements, colors, UI components, and familiar Amazon features. High-fidelity prototypes are interactive, validate the user interaction flow, and help find possible shortcomings to designs that need to be improved.
 
-### The Process
+### The Process:
 The prototype below was created using AdobeXD in which I created interactive user flows for three website acitivites containing the three new design features I added to improve Amazon's user experience. After conducting user research, creating 3 user personas, and creating hand-drawn low-fidelity prototypes, I used the feedback from each step of the UX-design process to create high-fidelity prototypes to fit the needs of each persona. I recreated the basic interface of Amazon by including screenshots, and removed and added UI components to create a clean, yet familiar, look for my new web design. I implemented Amazon's color palette into these components so that they would fit in with the original Amazon interface, and found a similar sans-serif font to Amazon's original text to create buttons and descriptions. Then, I used the prototyping tools on AdobeXD to make the buttons and other features interactive and usable.
 
-### Tasks
+### Tasks:
 #### Task 1: Browse for exercise equipment by looking through grouped categories
 In this task, our user wants to purchase exercise equipment that they can use at home. The user doesn't have anything specific in mind, but knows they want to work on their core strength, and looks forward to browsing around on Amazon. The user first searches "exercise equipment" in the search bar where they are taken to a screen with different exercise equipment categories and a list of results. The user can click on the category, "Core," to narrow down the results to only show core strengthening equipment. When the user clicks on the first product on the list, they are taken to the product screen where they can view the product details and description. The user can click the "Add to Cart" button to add the product into their cart.
 
