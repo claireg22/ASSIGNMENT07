@@ -52,10 +52,14 @@ Reviewers: "Returning items purchased before and looking at what I had previousl
 ### Impression test from extra-credit user test:
 https://youtu.be/3ImBX4ENuq0
 
-The screens the user saw on the impression test:
-![screen 1](screen1.png =100x100)
-![screen 2](screen2.png)
-![screen 3](screen3.png)
+The screens the user saw on the UT impression test:
+![screens](Screens1to3.png)
+
+### Findings:
+From the in-class peer review impression tests, I found that my help screens were very clear and showed users exactly what I wanted them to see. The tags on the buttons were effective and users could predict where they would be directed if they were to press the buttons. From the UT, the user was familiar with Amazon and enjoyed the new, simpler design I created. The user liked the cleaned-up version of the product page, commenting that she though the different colors of the product were clearly seen. Even though she admitted that the second image (current Amazon product page) was cluttered, the user was not too bothered by it, showing that she was so familiar with Amazon's site, that she was less likely to be frustrated at the busy interface and already knew where everything was.
+
+## Accessibility
+Two color-constrast checks:
 
 
 
