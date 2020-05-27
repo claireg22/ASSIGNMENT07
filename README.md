@@ -34,19 +34,16 @@ This is the color palette I used for the graphic design of all my screens:
 This impression test was done for Task 2 only (help screens).
 
 Q: What do you see?
-
 Reviewers: "I see a help and customer service screen."
 "A search bar for solutions, a return and refunds button, and a live chat."
 
 
 Q: What do you think that this web/app is about?
-
 Reviewers: "Purchasing things."
 "Returning items purchased before."
 
 
 Q: What do you think you can do with this web/app?
-
 Reviewers: "Returning items purchased before and looking at what I had previously ordered"
 
 ### Impression test from extra-credit user test:
@@ -59,8 +56,24 @@ The screens the user saw on the UT impression test:
 From the in-class peer review impression tests, I found that my help screens were very clear and showed users exactly what I wanted them to see. The tags on the buttons were effective and users could predict where they would be directed if they were to press the buttons. From the UT, the user was familiar with Amazon and enjoyed the new, simpler design I created. The user liked the cleaned-up version of the product page, commenting that she though the different colors of the product were clearly seen. Even though she admitted that the second image (current Amazon product page) was cluttered, the user was not too bothered by it, showing that she was so familiar with Amazon's site, that she was less likely to be frustrated at the busy interface and already knew where everything was.
 
 ## Accessibility
-Two color-constrast checks:
+Two color-contrast checks:
+![color contrast 1](colorcontrast1.png)
+![color contrast 2](colorcontrast2.png)
 
+## Interactive prototype
+Tasks #1 and #2:
+<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/caf758a8-381b-4968-6228-3a4e34c17f16-bcc6/" frameborder="0" allowfullscreen></iframe>
+
+Task #3:
+<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/6699da20-dd69-4436-6d18-15133e8c265e-10a8/" frameborder="0" allowfullscreen></iframe>
+
+## Diagrams
+Wireflow:
+![screen designs]()
+
+Prototype:
+![prototype1]()
+![prototype2]()
 
 
 
