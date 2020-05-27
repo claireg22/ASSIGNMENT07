@@ -7,7 +7,7 @@ My user research project focuses on creating a quick, less frustrating, and more
 The purpose of a high-fidelity prototype is to make interactive designs and to study the functionality and usability of new design features. The high-fidelity prototype below is based on my low-fidelity prototpes, but now include more visual design information, such as graphic elements, colors, UI components, and familiar Amazon features. High-fidelity prototypes are interactive, validate the user interaction flow, and help find possible shortcomings to designs that need to be improved.
 
 ### The Process:
-The prototype below was created using AdobeXD in which I created interactive user flows for three website acitivites containing the three new design features I added to improve Amazon's user experience. After conducting user research, creating 3 user personas, and creating hand-drawn low-fidelity prototypes, I used the feedback from each step of the UX-design process to create high-fidelity prototypes to fit the needs of each persona. I recreated the basic interface of Amazon by including screenshots, and removed and added UI components to create a clean, yet familiar, look for my new web design. I implemented Amazon's color palette into these components so that they would fit in with the original Amazon interface, and found a similar sans-serif font to Amazon's original text to create buttons and descriptions. Then, I used the prototyping tools on AdobeXD to make the buttons and other features interactive and usable.
+The prototype below was created using AdobeXD in which I created interactive user flows for three website acitivites containing the three new design features I added to improve Amazon's user experience. After conducting user research, creating 3 user personas, and creating hand-drawn low-fidelity prototypes, I used the feedback from each step of the UX-design process to create high-fidelity prototypes to fit the needs of each persona. I recreated the basic interface of Amazon by including screenshots, and removed and added UI components to create a clean, yet familiar, look for my new web design. I implemented Amazon's color palette and similar font into these components so that they would fit in with the original Amazon interface (this will be discussed further in the graphic design section). Then, I used the prototyping tools on AdobeXD to make the buttons and other features interactive and usable.
 
 ### Tasks:
 #### Task 1: Browse for exercise equipment by looking through grouped categories
@@ -20,3 +20,39 @@ In this task, our user needs to return an item they bought off Amazon but they h
 In this task, our user wants to purchase a dress with a 4 star & up customer rating that costs only around $30. However, our user is in a hurry and does not have much time to browse around and needs to use filters to quickly find a list of dresses that fit their liking. First, the user searches "dress" in the search bar, and then uses the drop-down filters on the left-side column to narrow down the search results. The user clicks the down-ward arrows to open up the filter for cutomer ratings, and clicks on the 4 stars & up filter. The user then does the same thing for the price filter and selects the filter for $25-$50. When the user clicks on the first product, they are taken to the product screen where they can view the product details and description. The user clicks on the size drop-down to select a medium size and can click on the "Add to Cart" button to add the product into their cart.
 
 ## Graphic Designs
+![graphic designs](graphicdesigns.png)
+
+The four screens above are examples of four primary screens I worked with while creating the user flow for three of my tasks. The remaining screens are either similar to, or based off of these four screens.  
+The basic interface of these four screens is based off of the original Amazon webpage. I built off of Amazon's existing color palette to choose colors for the background and buttons. To preserve consistency, I used the orange colors on buttons and other usable features to show that they were clickable and interactive, and I found a similar sans-serif font similar to Amazon's "Ember" font to create my own buttons and descriptions. I used screenshots from Amazon, but I added, removed, and moved features around to create a de-cluttered and clean look for the new site. 
+This is the color palette I used for the graphic design of all my screens:
+
+![color palette](colorpalette.png)
+
+## Impression test
+
+### Impression test from peer-review:
+This impression test was done for Task 2 only (help screens).
+
+Q: What do you see?
+Reviewers: "I see a help and customer service screen."
+"A search bar for solutions, a return and refunds button, and a live chat."
+
+Q: What do you think that this web/app is about?
+Reviewers: "Purchasing things."
+"Returning items purchased before."
+
+Q: What do you think you can do with this web/app?
+Reviewers: "Returning items purchased before and looking at what I had previously ordered"
+
+### Impression test from extra-credit user test:
+![UT impression test](https://youtu.be/3ImBX4ENuq0)
+
+The screens the user saw on the impression test:
+![screen 1]()
+![screen 2]()
+![screen 3]()
+
+
+
+
+
