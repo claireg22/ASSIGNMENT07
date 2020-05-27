@@ -53,9 +53,9 @@ Reviewers: "Returning items purchased before and looking at what I had previousl
 https://youtu.be/3ImBX4ENuq0
 
 The screens the user saw on the impression test:
-![screen 1](screen1.png = 100x100)
+![screen 1](screen1.png=100x100)
 ![screen 2](screen2.png)
-![screen 3](screen2.png)
+![screen 3](screen3.png)
 
 
 
