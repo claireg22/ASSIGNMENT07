@@ -34,21 +34,26 @@ This is the color palette I used for the graphic design of all my screens:
 This impression test was done for Task 2 only (help screens).
 
 Q: What do you see?
+
 Reviewers: "I see a help and customer service screen."
 "A search bar for solutions, a return and refunds button, and a live chat."
 
+
 Q: What do you think that this web/app is about?
+
 Reviewers: "Purchasing things."
 "Returning items purchased before."
 
+
 Q: What do you think you can do with this web/app?
+
 Reviewers: "Returning items purchased before and looking at what I had previously ordered"
 
 ### Impression test from extra-credit user test:
 https://youtu.be/3ImBX4ENuq0
 
 The screens the user saw on the impression test:
-![screen 1](screen1.png)
+![screen 1](screen1.png = 100x100)
 ![screen 2](screen2.png)
 ![screen 3](screen2.png)
 
