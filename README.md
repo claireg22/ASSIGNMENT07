@@ -30,7 +30,7 @@ This is the color palette I used for the graphic design of all my screens:
 
 ## Impression test
 
-### Impression test from peer-review:
+### Impression test evidence from peer-review:
 This impression test was done for Task 2 only (help screens).
 
 Q: What do you see?
@@ -80,7 +80,7 @@ Prototype:
 ![prototype2](proto2.png)
 
 ## Cognitive Walkthrough
-### Cognitive Walkthrough from peer-review:
+### Cognitive Walkthrough evidence from peer-review:
 Q: Do you think the users can understand what this screen(feedback) is about?
 
 Reviewers: "Yes, it is the front page of the website with menu buttons."
