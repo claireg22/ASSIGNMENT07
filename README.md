@@ -45,12 +45,12 @@ Q: What do you think you can do with this web/app?
 Reviewers: "Returning items purchased before and looking at what I had previously ordered"
 
 ### Impression test from extra-credit user test:
-![UT impression test](https://youtu.be/3ImBX4ENuq0)
+https://youtu.be/3ImBX4ENuq0
 
 The screens the user saw on the impression test:
-![screen 1]()
-![screen 2]()
-![screen 3]()
+![screen 1](screen1.png)
+![screen 2](screen2.png)
+![screen 3](screen2.png)
 
 
 
